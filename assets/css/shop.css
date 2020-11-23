@@ -1,0 +1,159 @@
+.header {
+  top: 200x;
+  background-color: darkcyan;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+  .logo{
+    position:fixed; 
+	  top:0px; 
+    left: 0%; 
+    opacity: 0.5;
+  }
+
+  .header_1{
+    position:absolute;
+    top: 0px; 
+    left:0%;
+    opacity: 0.4;
+  }
+  
+  .top_right_home {
+    position: absolute;
+    top: 40px;
+    right: 180px;
+    color: rgb(230, 238, 235);
+    font-size: larger;
+    position:absolute; 
+    font-family: 'Playfair display', serif;
+  }
+  
+  .top_right_shop {
+    position: absolute;
+    top: 40px;
+    right: 110px;
+    color: rgb(230, 238, 235);
+    font-size: larger;
+    position:absolute; 
+    font-family: 'Playfair display', serif;
+  }
+
+  .top_right_aboutus {
+    position: absolute;
+    top: 40px;
+    right: 30px;
+    color: rgb(230, 238, 235);
+    font-size: larger;
+    position:absolute; 
+    font-family: 'Playfair display', serif;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+  }
+
+  .header__name {
+    color: rgb(230, 238, 235);
+    font-family: 'Playfair display', serif;
+    font-size: 70px;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  
+  }
+
+  .header2__name {
+    color: rgb(230, 238, 235);
+    font-family: 'Playfair display', serif;
+    font-size: 25px;
+    font-style: italic;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .Air_plants {
+    position:absolute; 
+	  top: 50%; 
+    left: 5%;  
+  }
+
+  .Cacti {
+    position:absolute; 
+	  top: 50%; 
+    align-self: center; 
+  }
+
+  .Tropical {
+    position:absolute; 
+	  top: 50%; 
+    right: 5%;  
+  }
+
+  .Carnivorous {
+    position:absolute; 
+	  top: 100%; 
+    left: 5%;  
+  }
+
+  .Rare {
+    position:absolute; 
+	  top: 100%; 
+    align-self: center;
+  }
+
+  .Sale {
+    position:absolute; 
+	  top: 100%; 
+    right: 5%;  
+  }
+
+  .button{
+    position: absolute;
+    top:50%;
+    left:5%;
+  }
+
+
+  .button1{
+    position: absolute;
+    top:50%;
+    align-self: center;
+  }
+
+  .button2 {
+    position: absolute;
+    top:50%;
+    right:5%;
+  }
+
+  .button3{
+    position: absolute;
+    top:100%;
+    left:5%;
+  }
+
+  .button4{
+    position: absolute;
+    top:100%;
+    align-self: center;
+  }
+
+  .button5{
+    position: absolute;
+    top:100%;
+    right:5%;
+  }
+
+
+
+
+
+
